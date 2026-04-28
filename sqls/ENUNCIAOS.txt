@@ -1,0 +1,34 @@
+Ejercicios de repaso BBDD Liga
+Datos del jugador más alto de la liga.
+
+Datos de todos los jugadores que pertenecen al Caja Laboral.
+
+Suma de las alturas de los jugadores que sean del CAI Zaragoza o del Real Madrid.
+
+Datos de los jugadores que miden más que todos los jugadores del Caja Laboral.
+
+Datos de los jugadores mejor pagado y peor pagado de la liga.
+
+Datos del jugador más antiguo, es decir, el que lleva más tiempo dado de alta en un equipo.
+
+Datos de los equipos que tienen más de tres jugadores registrados.
+
+Mostrar el nombre del jugador, el nombre del equipo al que pertenece y su posición.
+
+Mostrar el nombre de cada equipo y el nombre de su capitán o capitanes.
+
+Datos de los equipos y el número de partidos que han jugado como locales.
+
+Datos de los jugadores cuyos equipos hayan jugado al menos tres partidos como visitantes.
+
+Datos de los equipos y el salario máximo de sus jugadores.
+
+Datos de los equipos que hayan jugado algún partido contra el Valencia en casa.
+
+Datos de los jugadores de equipos que hayan jugado algún partido contra el Valencia en casa.
+
+Datos de los equipos que no tienen ningún jugador registrado.
+
+Mostrar el salario medio de los jugadores de cada equipo.
+
+Datos de los jugadores que cobran más que la media salarial de su equipo.
